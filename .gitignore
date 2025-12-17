@@ -1,0 +1,7 @@
+*.exe
+*.ipk
+*.zip
+*.7z
+*.gz
+README.html
+*-amd64
