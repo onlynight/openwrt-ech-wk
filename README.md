@@ -1,6 +1,10 @@
 x86_64 安装 openwrt教程 及 ech-wk 配置
 =======================
 
+以下所有软件包下载地址
+x86_64 openwrt.zip <br>
+链接: https://pan.baidu.com/s/1Dm2XcaVfS-LPkcfuGRpn9w?pwd=3qq3 提取码: 3qq3
+
 # 刷机安装openwrt
 ---
 
